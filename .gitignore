@@ -1,0 +1,19 @@
+rev2data
+
+.DS_Store
+.idea
+.vscode
+
+rev2data
+
+# gurobi log
+gurobi.log
+
+# python cache
+__pycache__
+# jupyter notebook cache
+.ipynb_checkpoints
+
+*.pkl
+
+res
